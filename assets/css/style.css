@@ -108,11 +108,11 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #00b3fe;
+	color: #CCCCCC;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #00b3fe;
+	color: #CCCCCC;
 	background-color: transparent;
 }
 
@@ -143,8 +143,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: #00b3fe;
-  border-color: #00b3fe;
+  background-color: #CCCCCC;
+  border-color: #CCCCCC;
 }
 
 .dmbutton:hover,
@@ -198,7 +198,7 @@ a:focus {
 }
 
 .hline-w {
-	border-bottom: 2px solid #ffffff;
+	border-bottom: 2px solid #384452;
 	margin-bottom: 25px;
 }
 /*	################################################################
@@ -240,7 +240,7 @@ a:focus {
 }
 
 #service i {
-	color: #00b3fe;
+	color: #CCCCCC;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -288,8 +288,8 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:#00b3fe;
-	background-color:rgba(0,179,254,.9);
+	background-color:#CCCCCC;
+	background-color:rgba(204, 204, 204,.9);
 	text-align:center;
 }
 
@@ -343,25 +343,25 @@ a:focus {
 #footerwrap {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background: #384452;
+	background: #CCCCCC;
 }
 
 #footerwrap p {
-	color: #bfc9d3;
+	color: #384452;
 }
 
 #footerwrap h4 {
-	color: white;
+	color: #384452;
 }
 
 #footerwrap i {
 	font-size: 30px;
-	color: #bfc9d3;
+	color: #384452;
 	padding-right: 25px;
 }
 
 #footerwrap i:hover {
-	color: #00b3fe
+	color: #525252
 }
 
 /*	################################################################
@@ -370,7 +370,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #00b3fe;
+	background: #CCCCCC;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -383,7 +383,7 @@ a:focus {
 }
 
 .ctitle {
-	color: #00b3fe;
+	color: #CCCCCC;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -403,7 +403,7 @@ csmall2 {
 }
 
 .badge-theme {
-	background: #00b3fe;
+	background: #CCCCCC;
 }
 
 /* Contact Page */
