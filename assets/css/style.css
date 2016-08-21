@@ -209,25 +209,28 @@ a:focus {
 	background-image: url("http://www.fabiovisentin.com//photography/photo/22/white-orchid-03855.jpg");
 	background-size: 100%;
 	background-position: center;
-	min-height: 600px;
-	padding-top: 200px;
+	min-height: 650px;
+	padding-top: 550px;
 	padding-bottom: 0px;
 	text-align: center;
 }
 
 #headerwrap h4, h5 {
-	color: grey;
+	color: white;
 	font-weight: 400;
 }
 
 #headerwrap h1 {
-	color: grey;
+	color: white;
 	margin-bottom: 25px;
 	font-weight: 400;
 }
 
 #headerwrap .img-responsive {
 	margin: 0 auto;
+}
+
+
 }
 
 /* Services Wrap */
