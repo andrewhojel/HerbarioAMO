@@ -284,6 +284,7 @@ a:focus {
 .max {
 	width:600;
 	height:450;
+	background: url(assets/img/portfolio/portfolio_09.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
 	overflow: hidden;
 }
 
